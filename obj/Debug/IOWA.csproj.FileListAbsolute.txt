@@ -1,0 +1,13 @@
+C:\Users\91900\source\repos\IOWA\IOWA\bin\Debug\IOWA.exe.config
+C:\Users\91900\source\repos\IOWA\IOWA\bin\Debug\IOWA.exe
+C:\Users\91900\source\repos\IOWA\IOWA\bin\Debug\IOWA.pdb
+C:\Users\91900\source\repos\IOWA\IOWA\bin\Debug\de-DE\IOWA.resources.dll
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.csprojAssemblyReference.cache
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.Form1.resources
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.Properties.Resources.resources
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.Form1.de-DE.resources
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.csproj.GenerateResource.cache
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.csproj.CoreCompileInputs.cache
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\de-DE\IOWA.resources.dll
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.exe
+C:\Users\91900\source\repos\IOWA\IOWA\obj\Debug\IOWA.pdb
